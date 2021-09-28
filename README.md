@@ -3,6 +3,7 @@
 Solidity + nix with flakes
 
 
+- [Solidity in 100 Seconds](https://www.youtube.com/watch?v=kdvVwGrV7ec)
 - https://docs.soliditylang.org/en/v0.8.8/using-the-compiler.html#basic-usage
 - https://docs.soliditylang.org/en/v0.8.8/solidity-by-example.html#voting
 
