@@ -9,9 +9,12 @@ Solidity + nix with flakes
 
 ```bash
 nix \
+--refresh \
 develop \
 github:ES-Nix/Solidity/main
 ```
+
+The `--refresh` is optional in most cases.
 
 
 ### If working locally
